@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **The Dashxboard is being deprecated, and its repositories will be archived. The project remains open source, allowing developers to fork and deploy as needed. Thanks to everyone who supported this vision until the end.**
+
 <div align="center">
 <h1>Dashxboard</h1>
 <p><i>From ideas to actions.</i></p>
@@ -6,7 +9,7 @@
 <p align="center">
     <strong>
         <a href="https://dashxboard.com">Website</a> •
-        <a href="https://discord.gg/eJhzDbKbdj">Discord</a> •
+        <a href="https://discord.gg/dashxboard">Discord</a> •
         <a href="https://github.com/dashxboard">GitHub</a>
     </strong>
 </p>
