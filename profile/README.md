@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **The Dashxboard is being deprecated, and its repositories will be archived. The project remains open source, allowing developers to fork and deploy as needed. Thanks to everyone who supported this vision until the end.**
+> **The Dashxboard project has been discontinued, and its repositories are set to be archived. The license will be updated to GNU GPLv3. During this transition, the repositories will be made private. Thanks to everyone who supported this vision until the end.**
 
 <div align="center">
 <h1>Dashxboard</h1>
@@ -57,4 +57,4 @@ Dashxboard is open-source, and contributions are welcome! You can help by:
 
 ## License
 
-This project is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
+This project is licensed under the [GNU GPLv3 license](https://choosealicense.com/licenses/gpl-3.0/).
